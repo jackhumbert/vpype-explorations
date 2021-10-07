@@ -41,6 +41,7 @@ setup(
             spiro=vpype_explorations.spiro:spiro
             poly=vpype_explorations.poly:poly
             fill=vpype_explorations.fill:fill
+            opf=vpype_explorations.opf:opf
             whlfarris=vpype_explorations.wheels:whlfarris
             whlrandom=vpype_explorations.wheels:whlrandom
             whlboard=vpype_explorations.wheels:whlboard
